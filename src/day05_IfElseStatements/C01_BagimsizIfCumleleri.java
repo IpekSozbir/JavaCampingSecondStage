@@ -11,6 +11,7 @@ public class C01_BagimsizIfCumleleri {
         // eger 2. sayi cift sayi ise "Girilen 2. sayi cift",
         // eger 1. sayi pozitif sayi ise "Pozitif sayilar guzeldir" yazdirin
 
+
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen iki tamsayi giriniz: ");
         int sayi1 = scan.nextInt();

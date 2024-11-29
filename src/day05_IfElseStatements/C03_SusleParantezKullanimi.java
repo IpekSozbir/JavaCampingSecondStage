@@ -40,8 +40,5 @@ public class C03_SusleParantezKullanimi {
         // kullanimda suna dikkat etmeliyiz: if body'si sadece 1 satir ise { kullanmazsak da olabilir
         // fakat if body'si bir satirdan fazla ise mutlaka { kullanmaliyiz
 
-
-
-
     }
 }

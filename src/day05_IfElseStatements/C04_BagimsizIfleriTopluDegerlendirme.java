@@ -37,7 +37,6 @@ public class C04_BagimsizIfleriTopluDegerlendirme {
             System.out.println("Ikinci sayi 5'in tam kati");
         }
 
-
         if (!(sayi1<sayi2) && !(sayi1> 0 ) && !(sayi2> 50) && !(sayi2 % 5 ==0)) {
             System.out.println("Girilen sayilar hicbir sarti saglamiyor");
         }

@@ -22,5 +22,6 @@ public class C02_BagimsizIfCumleleri {
         if (girilenSayi % 5 ==0 ) {
             System.out.println("Bes ile bolunebilen sayi");
         }
+
     }
 }
