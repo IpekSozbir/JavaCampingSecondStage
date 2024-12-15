@@ -8,7 +8,7 @@ public class C11_EskenarUcgen {
 
         // Kullanicidan bir ucgenin 3 kenar uzunlugunu alin,
         // ucgen eskenar ise “Eskenar ucgen” yazdirin,
-        // degilse “Eskenar degil” yazdirin.
+        // degilse “Eskenar degil” yazdirin
 
         Scanner scanner  = new Scanner(System.in);
 

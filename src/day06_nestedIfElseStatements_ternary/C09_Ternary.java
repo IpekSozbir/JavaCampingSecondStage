@@ -6,8 +6,8 @@ public class C09_Ternary {
 
     public static void main(String[] args) {
 
-        // Kullanicidan bir tam sayi isteyin
-        // sayi 100den buyukse degerini 10 azaltin
+        // Kullanicidan bir tam sayi isteyin,
+        // sayi 100den buyukse degerini 10 azaltin,
         // sayi 100 veya 100den kucukse degerini 10 arttirin
 
         Scanner scan = new Scanner(System.in);

@@ -11,7 +11,7 @@ public class C08_Ternary {
         int sayi = scanner.nextInt();
 
 
-        // girilen sayi 100'den kucukse "kucuk sayi" , 100 veya daha buyukse "buyuk sayi" yazdirin
+        // girilen sayi 100'den kucukse "kucuk sayi", 100 veya daha buyukse "buyuk sayi" yazdirin
         if (sayi<100){
             System.out.println("kucuk sayi");
         }else {

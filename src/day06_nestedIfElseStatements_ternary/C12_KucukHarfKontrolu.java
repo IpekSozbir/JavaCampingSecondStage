@@ -8,7 +8,7 @@ public class C12_KucukHarfKontrolu {
 
         // Kullanicidan bir harf isteyin,
         // girilen karakter kucuk harf ise onu buyuk harf olarak yazdirin,
-        // yoksa girilen harfi yazdirin
+        // yoksa girilen harfi yazdirin.
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen bir harf giriniz: ");
