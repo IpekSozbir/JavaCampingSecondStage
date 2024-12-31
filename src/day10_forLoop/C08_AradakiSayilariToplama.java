@@ -15,7 +15,6 @@ public class C08_AradakiSayilariToplama {
         int baslangic = scan.nextInt();
         System.out.println("Lutfen bitis icin bir tam sayi giriniz:");
         int bitis = scan.nextInt();
-
         int toplam =0;
 
         if (baslangic < bitis){

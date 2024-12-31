@@ -7,7 +7,7 @@ public class C09_FaktoriyelHesaplama {
     public static void main(String[] args) {
 
         // Kullanicidan 14’den kucuk bir sayi alip, bu sayinin faktoryel degerini hesaplayin.
-        // 5! = 5*4*3*2*1==>120
+        // 5! = 5*4*3*2*1==> 120
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen 14'ten kucuk pozitif bir tam sayi giriniz:");

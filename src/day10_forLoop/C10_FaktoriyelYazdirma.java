@@ -6,9 +6,9 @@ public class C10_FaktoriyelYazdirma {
 
     public static void main(String[] args) {
 
-        // Kullanicidan 18’den kucuk bir sayi alip,
-        // bu sayinin faktoryel degerini hesaplayin.
-        // Konsolda faktoryel hesabinin yapilisini da yazdirin.
+        // Kullanicidan 18’den kucuk bir sayi alip
+        // bu sayinin faktoryel degerini hesaplayin
+        // Konsolda faktoryel hesabinin yapilisini da yazdirin
         // Or : 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
 
         Scanner scan = new Scanner(System.in);
