@@ -6,7 +6,7 @@ public class C13_StringiTerstenYazdirma {
 
     public static void main(String[] args) {
 
-        // Kullanicidan bir String isteyin ve String’i tersten yazdirin.
+        // Kullanicidan bir String isteyin ve String’i tersten yazdirin
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen bir metin giriniz: ");

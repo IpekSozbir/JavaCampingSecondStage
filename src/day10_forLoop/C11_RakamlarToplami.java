@@ -6,7 +6,7 @@ public class C11_RakamlarToplami {
 
     public static void main(String[] args) {
 
-        // Kullanicidan pozitif bir tam sayi alip, rakamlar toplamini yazdirin.
+        // Kullanicidan pozitif bir tam sayi alip rakamlar toplamini yazdirin.
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen pozitif bir tamsayi giriniz:");

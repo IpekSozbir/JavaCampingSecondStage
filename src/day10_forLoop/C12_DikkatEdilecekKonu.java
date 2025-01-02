@@ -37,7 +37,7 @@ public class C12_DikkatEdilecekKonu {
             sayi /= 10;
         }
 
-        System.out.println("Sayinin rakamlar toplami : "+rakamlarToplami);
+        System.out.println("Sayinin rakamlar toplami : " + rakamlarToplami);
 
 
         // 1'den verilen sayiya kadar 17 ile bolunebilen sayilari yazdirin
