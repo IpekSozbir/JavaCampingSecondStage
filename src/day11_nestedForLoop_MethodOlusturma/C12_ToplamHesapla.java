@@ -28,5 +28,4 @@ public class C12_ToplamHesapla {
         }
         return toplam;
     }
-
 }

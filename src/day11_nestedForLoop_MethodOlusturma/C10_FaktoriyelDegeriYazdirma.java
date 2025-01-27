@@ -1,4 +1,4 @@
-package day11_nestedForLoop_MethodOusturma;
+package day11_nestedForLoop_MethodOlusturma;
 
 public class C10_FaktoriyelDegeriYazdirma {
     public static void main(String[] args) {
