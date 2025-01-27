@@ -1,4 +1,4 @@
-package day11_nestedForLoop_MethodOusturma;
+package day11_nestedForLoop_MethodOlusturma;
 
 public class C12_ToplamHesapla {
     public static void main(String[] args) {
@@ -28,4 +28,5 @@ public class C12_ToplamHesapla {
         }
         return toplam;
     }
+
 }
