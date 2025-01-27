@@ -1,4 +1,4 @@
-package day11_nestedForLoop_MethodOusturma;
+package day11_nestedForLoop_MethodOlusturma;
 
 import java.util.Scanner;
 

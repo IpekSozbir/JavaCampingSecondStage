@@ -1,4 +1,4 @@
-package day11_nestedForLoop_MethodOusturma;
+package day11_nestedForLoop_MethodOlusturma;
 
 public class C03_NestedForLoop {
     public static void main(String[] args) {
